@@ -1,0 +1,121 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyNotes
+build_property.ProjectDir = F:\OneDrive\Source\Maui\078-Project\MyNotes\MyNotes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/PageAddEditNote.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.PageAddEditNote.xaml
+build_metadata.AdditionalFiles.TargetPath = PageAddEditNote.xaml
+build_metadata.AdditionalFiles.RelativePath = PageAddEditNote.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/PageDeleteNotes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.PageDeleteNotes.xaml
+build_metadata.AdditionalFiles.TargetPath = PageDeleteNotes.xaml
+build_metadata.AdditionalFiles.RelativePath = PageDeleteNotes.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/PageNotesInfo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.PageNotesInfo.xaml
+build_metadata.AdditionalFiles.TargetPath = PageNotesInfo.xaml
+build_metadata.AdditionalFiles.RelativePath = PageNotesInfo.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/PageSearch.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.PageSearch.xaml
+build_metadata.AdditionalFiles.TargetPath = PageSearch.xaml
+build_metadata.AdditionalFiles.RelativePath = PageSearch.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/PageShowAllNotes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.PageShowAllNotes.xaml
+build_metadata.AdditionalFiles.TargetPath = PageShowAllNotes.xaml
+build_metadata.AdditionalFiles.RelativePath = PageShowAllNotes.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/PageShowHiddenNotes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.PageShowHiddenNotes.xaml
+build_metadata.AdditionalFiles.TargetPath = PageShowHiddenNotes.xaml
+build_metadata.AdditionalFiles.RelativePath = PageShowHiddenNotes.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/PageShowNotes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.PageShowNotes.xaml
+build_metadata.AdditionalFiles.TargetPath = PageShowNotes.xaml
+build_metadata.AdditionalFiles.RelativePath = PageShowNotes.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/ViewDelete.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.ViewDelete.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewDelete.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewDelete.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/ViewHeader.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.ViewHeader.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewHeader.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewHeader.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/ViewLogo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.ViewLogo.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewLogo.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewLogo.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/ViewNote.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.ViewNote.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewNote.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewNote.xaml
+
+[F:/OneDrive/Source/Maui/078-Project/MyNotes/MyNotes/ViewNoteInfo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyNotes.ViewNoteInfo.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewNoteInfo.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewNoteInfo.xaml
