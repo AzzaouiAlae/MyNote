@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyNotes.ViewHeader">
+
+    <Grid ColumnDefinitions="*,Auto,*" BackgroundColor="#D42B51" Padding="10,5" HeightRequest="55">
+        
+        <Button ImageSource="back.png" 
+                Background="Transparent" 
+                HorizontalOptions="Start" 
+                VerticalOptions="Center" 
+                Padding="0" x:Name="btnPop" 
+                Clicked="btnPop_Clicked"/>
+
+        <Label Grid.Column="1"
+               x:Name="lblTitle" 
+               HorizontalOptions="Center" 
+               VerticalOptions="Center" 
+               FontAttributes="Bold" FontSize="18"
+               TextColor="White"/>
+    </Grid>
+    
+</ContentView>

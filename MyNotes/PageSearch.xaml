@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyNotes.PageSearch" Shell.NavBarIsVisible="False"
+             Title="" xmlns:local="clr-namespace:MyNotes">
+    
+    <VerticalStackLayout Spacing="15">
+        <local:ViewHeader title="Search" />
+        <SearchBar Margin="15,0" x:Name="txtSearch"/>
+        <Button Margin="15,0" Text="Search" x:Name="BtnSeach" Clicked="BtnSeach_Clicked"/>
+        <Grid ColumnDefinitions="*,*">
+            <VerticalStackLayout Grid.Column="0" x:Name="vLayoutLeft">
+                
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Grid.Column="1" x:Name="vLayoutRight">
+                
+            </VerticalStackLayout>
+        </Grid>
+    </VerticalStackLayout>
+    
+</ContentPage>

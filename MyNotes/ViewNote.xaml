@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyNotes.ViewNote">
+
+    <Grid>
+        <Border  x:Name="frm" Padding="10" >
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="20"/>
+            </Border.StrokeShape>
+
+            <VerticalStackLayout Spacing="10" x:Name="vLayout" MaximumHeightRequest="230" Padding="0,0,0,54">
+                <Label x:Name="lblTitle" FontAttributes="Bold" HorizontalOptions="Center" />
+                <Border Stroke="Black" StrokeThickness="2" x:Name="bLine" Grid.Row="1"/>
+                <Label FontAttributes="Bold" x:Name="lblNote" MaximumHeightRequest="100"/>
+                <Label x:Name="lblNoteDate"/>
+            </VerticalStackLayout>
+
+        </Border>
+
+        <Button Text="Copy Note" x:Name="btnCopyNote" Clicked="btnCopyNote_Clicked" VerticalOptions="End" Margin="10"/>
+    </Grid>
+</ContentView>

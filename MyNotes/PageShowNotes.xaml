@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyNotes.PageShowNotes" Shell.NavBarIsVisible="False"
+             Title="" xmlns:local="clr-namespace:MyNotes" >
+
+    <Grid RowSpacing="10" RowDefinitions="Auto,*">
+        <VerticalStackLayout Spacing="10">
+            <local:ViewHeader title="Notes" isBackButtonVisible="true" x:Name="Header"/>
+            <local:ViewLogo Margin="15,0"/>
+        </VerticalStackLayout>
+        <Grid ColumnDefinitions="*,*" ColumnSpacing="10" Grid.Row="1" Padding="15,0">
+            
+            <ScrollView>
+                <VerticalStackLayout Spacing="10" x:Name="LeftLayout">
+
+                </VerticalStackLayout>
+            </ScrollView>
+
+            <ScrollView Grid.Column="1">
+                <VerticalStackLayout  Spacing="10" x:Name="RightLayout">
+
+                </VerticalStackLayout>
+            </ScrollView>
+            
+
+        </Grid>
+    </Grid>
+    
+</ContentPage>
